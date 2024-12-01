@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{worksheet_title}} - ESL Worksheet</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <header class="worksheet-header">
+        <div class="worksheet-meta">
+            <h1>{{worksheet_title}}</h1>
+            <div class="level-badge">Level: {{level}}</div>
+            <div class="skills-badges">{{skills}}</div>
+        </div>
+        <div class="teacher-controls">
+            <button class="toggle-answers">Toggle Answer Key</button>
+            <button class="print-worksheet">Print Worksheet</button>
+        </div>
+    </header>
+
+    <main class="worksheet-content">
+        <div class="instructions">{{instructions}}</div>
+        <div class="exercises-container">
+            {{exercises}}
+        </div>
+    </main>
+
+    <footer class="worksheet-footer">
+        <div class="teacher-notes hidden">{{teacher_notes}}</div>
+    </footer>
+
+    <script src="/static/js/worksheet.js"></script>
+</body>
+</html>
