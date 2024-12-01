@@ -1,0 +1,18 @@
+{
+  "id": "b1-city-life",
+  "title": "Urban Living: Advantages and Disadvantages",
+  "level": "b1",
+  "skills": ["reading", "listening", "speaking"],
+  "targetVocabulary": ["urban", "suburban", "commute", "convenience", "facilities", "amenities"],
+  "timeEstimate": "45 minutes",
+  "voices": {
+    "instructor": {
+      "name": "Microsoft Ava",
+      "fallback": "Female"
+    },
+    "student": {
+      "name": "Microsoft Andrew",
+      "fallback": "Male"
+    }
+  }
+}
