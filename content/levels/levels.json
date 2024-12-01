@@ -3,34 +3,32 @@
     {
       "id": "a1",
       "name": "A1 - Beginner",
-      "description": "Can understand and use familiar everyday expressions and very basic phrases.",
-      "vocabulary_scope": "500-1000 words",
-      "grammar_focus": ["Simple Present", "Simple Past", "Basic Questions"],
-      "suggested_activities": ["Picture Matching", "Simple Fill-in-blanks", "Basic Dialogues"]
+      "description": "Can understand and use familiar everyday expressions and very basic phrases."
     },
     {
       "id": "a2",
       "name": "A2 - Elementary",
-      "description": "Can communicate in simple and routine tasks requiring a simple and direct exchange of information.",
-      "vocabulary_scope": "1000-2000 words",
-      "grammar_focus": ["Present Continuous", "Past Simple", "Future with 'going to'"],
-      "suggested_activities": ["Short Reading Passages", "Guided Writing", "Role-play Conversations"]
+      "description": "Can communicate in simple and routine tasks requiring a simple and direct exchange of information."
     },
     {
       "id": "b1",
       "name": "B1 - Intermediate",
-      "description": "Can deal with most situations likely to arise while travelling in an area where the language is spoken.",
-      "vocabulary_scope": "2000-3500 words",
-      "grammar_focus": ["Present Perfect", "Conditionals (First)", "Modals"],
-      "suggested_activities": ["Longer Texts", "Open Discussions", "Opinion Writing"]
+      "description": "Can deal with most situations likely to arise while travelling in an area where the language is spoken."
     },
     {
       "id": "b2",
       "name": "B2 - Upper Intermediate",
-      "description": "Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible.",
-      "vocabulary_scope": "3500-5000 words",
-      "grammar_focus": ["All Perfect Tenses", "Passive Voice", "Conditionals (All)"],
-      "suggested_activities": ["Academic Reading", "Essay Writing", "Debates"]
+      "description": "Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible."
+    },
+    {
+      "id": "c1",
+      "name": "C1 - Advanced",
+      "description": "Can express ideas fluently and spontaneously without much obvious searching for expressions."
+    },
+    {
+      "id": "c2",
+      "name": "C2 - Mastery",
+      "description": "Can understand with ease virtually everything heard or read."
     }
   ]
 }
